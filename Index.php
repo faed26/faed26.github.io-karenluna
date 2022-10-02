@@ -2,7 +2,7 @@
 <html lang="es">
 
 <header>
-<?php require('./navbar.php'); ?>
+<?php require('./navbar.html'); ?>
 </header>
 
 <?php require('./info.php'); ?>

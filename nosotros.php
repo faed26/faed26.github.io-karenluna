@@ -1,4 +1,4 @@
-<?php require('./navbar.php'); ?>
+<?php require('./navbar.html'); ?>
 <?php ?>
 
 <!doctype html>
