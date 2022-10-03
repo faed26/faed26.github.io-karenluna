@@ -5,7 +5,7 @@
 <?php require('./navbar.html'); ?>
 </header>
 
-<?php require('./info.php'); ?>
+<?php require('./info.html'); ?>
 
-<?php require('./footer.php'); ?>
+<?php require('./footer.html'); ?>
 

@@ -126,4 +126,4 @@
 
 </html>
 
-<?php require('./footer.php'); ?>
+<?php require('./footer.html'); ?>
